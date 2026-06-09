@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "640600471882",
+    "firebase_url": "https://humanity-net-default-rtdb.firebaseio.com",
+    "project_id": "humanity-net",
+    "storage_bucket": "humanity-net.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640600471882:android:dc38644b3587fe567869b3",
+        "android_client_info": {
+          "package_name": "com.example.humanitynet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkoaDstg6T7DVkvwMiXQGU3ZHTnkwUWnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640600471882:android:0f2f5d5bbb23ca9d7869b3",
+        "android_client_info": {
+          "package_name": "com.example.humanitynet_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkoaDstg6T7DVkvwMiXQGU3ZHTnkwUWnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
